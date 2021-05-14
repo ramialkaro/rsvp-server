@@ -1,0 +1,3 @@
+URL="yourMongoURL"
+PORT=5050
+SECRET="yourSecret"
